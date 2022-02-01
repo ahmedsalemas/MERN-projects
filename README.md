@@ -47,13 +47,15 @@ During my development, I have used different state management and technologies i
 
 2) Express routing
 
-3) JSON Web Tokens (JWT)
+3) Express middleware
 
-4) File uploading
+4) JSON Web Tokens (JWT)
 
-5) MVC
+5) File uploading
 
-6) Backend validation
+6) MVC
+
+7) Backend validation
 
 ### `To start a project :-` 
 
