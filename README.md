@@ -10,50 +10,50 @@ During my development, I have used different state management and technologies i
 
 ## Front-end (React)
 
-1)Contexts
+1) Contexts
 
-2)Hooks
+2) Hooks
 
-3)Reducers
+3) Reducers
 
-4)Redux
+4) Redux
 
-5)Thunk
+5) Thunk
 
-6)CSSTransition
+6) CSSTransition
 
-7)HTTP Requests
+7) HTTP Requests
 
-8)Local storage
+8) Local storage
 
-9)Axios
+9) Axios
 
-10)React-Router V6
+10) React-Router V6
 
-11)Password hashing
+11) Password hashing
 
 12) JSON Web Tokens (JWT)
 
 13) code splitting
 
-14)google maps & geo API
+14) google maps & geo API
 
-15)Frontend validation
+15) Frontend validation
 
 
 ## Back-end (Node, Express, MongoDB)
 
-1)Mongoose
+1) Mongoose
 
-2)Express routing
+2) Express routing
 
-3)JSON Web Tokens (JWT)
+3) JSON Web Tokens (JWT)
 
-4)File uploading
+4) File uploading
 
-5)MVC
+5) MVC
 
-6)Backend validation
+6) Backend validation
 
 ### `To start a project :-` 
 
